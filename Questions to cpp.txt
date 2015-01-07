@@ -1,0 +1,17 @@
+Questions to cpp
+
+
+Does y in "class x: public y" inherit only the public or all elements? --> public and protected
+
+In headers is it possible to declare a function with single argument by: void x(int) or is it a mistake?
+
+If you inherit do you have to #include the base class in the .h or .cpp/both files of the drived class?
+
+When declaring class variables in the constructor does it have to be in the form 'void x(int n): classN(n)? 
+
+What is 'not' in cpp? '!'?, 'not'? --> '!'
+
+Can you save a byte into int and int into float or double?
+
+
+
